@@ -1,6 +1,6 @@
 # Func Man
 
-![Screenshot](images/screencap.png =640x )
+![Screenshot](./images/screencap.png =640x )
 
 ## Description
 
