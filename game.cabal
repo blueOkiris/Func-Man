@@ -19,7 +19,7 @@ synopsis:            A game made in a functional programming language
 description:         A game made in a functional programming language.
 
 -- URL for the project homepage or repository.
-homepage:            https://tru-tok.com/
+homepage:            https://https://github.com/blueOkiris/Func-Man/
 
 -- The license under which the package is released.
 license:             GPL-3

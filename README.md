@@ -1,5 +1,7 @@
 # Func Man
 
+![Screenshot](images/screencap.png)
+
 ## Description
 
 A small platformer "game engine" written in a purelly functional language, Haskell
