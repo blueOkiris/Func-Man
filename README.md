@@ -1,6 +1,6 @@
 # Func Man
 
-![Screenshot](./images/screencap.png =640x )
+<img src='./images/screencap.png' width='640'/>
 
 ## Description
 
